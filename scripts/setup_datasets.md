@@ -1,4 +1,4 @@
-# 📥 Medical Dataset Setup Guide
+# Medical Dataset Setup Guide
 
 To reach the goal of 1000+ images per use case, follow these links to download the raw DICOM/NIfTI data.
 
