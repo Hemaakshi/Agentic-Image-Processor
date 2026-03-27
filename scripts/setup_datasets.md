@@ -5,7 +5,7 @@ To reach the goal of 1000+ images per use case, follow these links to download t
 ### 1. Pneumonia Triage (Chest X-Ray)
 
 - **Source:** [Stanford CheXpert](https://aimi.stanford.edu/shared-datasets)
-- **Count:** 224,000+ images.
+- **Count:** 224,000+ images.(.jpg)
 - **Action:** Register on the site to get the download link for the "Small" or "Full" dataset.
 - **What it detects:** Bacterial or viral infections in the lungs.
 - **Target Finding:** Opacity (cloudy areas) in the lung fields that indicate fluid or inflammation.
@@ -23,7 +23,7 @@ To reach the goal of 1000+ images per use case, follow these links to download t
 ### 3. Brain Tumor Analysis (MRI)
 
 - **Source:** [Mendeley MRI Dataset](https://data.mendeley.com/datasets/d73rs38yk6/1)
-- **Count:** 1,000+ images.
+- **Count:** 1,000+ images.(.jpg /.png)
 - **Action:** Direct download the ZIP file and extract into `data/raw/`.
 - **What it detects:** Gliomas, Meningiomas, or Pituitary tumors.
 - **Target Finding:** Abnormal tissue masses that displace normal brain structures, often appearing brighter (hyperintense) on specific MRI sequences.
@@ -32,7 +32,7 @@ To reach the goal of 1000+ images per use case, follow these links to download t
 ### 4. Breast Cancer Screening (Mammography)
 
 - **Source:** [TCIA CMMD](https://www.cancerimagingarchive.net/collection/cmmd/)
-- **Count:** 5,200+ images.
+- **Count:** 5,200+ images.(.dic)
 - **Action:** Download the manifest and use the NBIA Retriever.
 - **What it detects:** Malignant vs. Benign breast lesions.
 - **Target Finding:** Calcifications (tiny white dots) or dense masses/architectural distortions in the breast tissue.
