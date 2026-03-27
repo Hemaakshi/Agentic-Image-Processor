@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --- Custom Medical Data Rules ---
+# Do not upload raw or processed medical images
+data/raw/
+data/processed/
+*.dcm
+*.nii
+*.nii.gz
+*.ima
+
+# Configuration secrets (if any)
+.env

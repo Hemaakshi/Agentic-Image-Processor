@@ -1,0 +1,6 @@
+pydicom==2.4.3
+nibabel==5.2.0
+scikit-image==0.22.0
+pillow==10.2.0
+numpy==1.26.4
+matplotlib==3.8.2

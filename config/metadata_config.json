@@ -1,0 +1,24 @@
+{
+  "use_cases": {
+    "pneumonia_triage": {
+      "modality": "DX",
+      "body_part": "CHEST",
+      "source": "Stanford CheXpert"
+    },
+    "lung_nodule_ct": {
+      "modality": "CT",
+      "body_part": "CHEST",
+      "source": "TCIA LIDC-IDRI"
+    },
+    "brain_tumor_mri": {
+      "modality": "MR",
+      "body_part": "BRAIN",
+      "source": "Mendeley / BraTS"
+    },
+    "breast_cancer_screening": {
+      "modality": "MG",
+      "body_part": "BREAST",
+      "source": "TCIA CMMD"
+    }
+  }
+}
